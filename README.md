@@ -6,6 +6,7 @@ All this framework really does is autoscale guicomponents and allow you to easil
 Heres a really unprofressional webm i've made with my main project: https://a.pomf.cat/hdjnej.webm if this webm doesn't stay up just tell me to reupload the gui_framework.webm via email.
 
 */
+
 	window = new GUIWindow();
 	GUIBox* testBox = new GUIBox(VERTICAL, 0.01);
 	GUIBox* t2Box = new GUIBox(HORIZONTAL, 0.01);
